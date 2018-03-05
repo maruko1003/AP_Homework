@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aphomework">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- #####Main Activity##### -->
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- #####Lesson3 Activity##### -->
+        <activity android:name=".Lesson3MainActivity" />
+        <activity android:name=".Lesson3_2_Main_Activity" />
+
+        <!-- #####Lesson3-2 for map key##### -->
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyCQ-QUp31ilTPrEngy4FnQz5c4eFpGO7TQ" />
+
+        <!-- #####Lesson4 Activity##### -->
+        <activity android:name=".Lesson4MainActivity" />
+
+        <!-- #####Lesson4-1 Activity##### -->
+        <activity android:name=".Lesson4_1_Main_Activity" />
+
+        <!-- #####Lesson4-2 Activity##### -->
+        <activity
+            android:name=".Lesson4_2_Main_Activity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <!-- #####Lesson4-3 Activity##### -->
+        <activity android:name=".Lesson4_3_Main_Activity" />
+        <activity
+            android:name=".Lesson4_3_1_Activity"
+            android:label="@string/title_activity_display_message"
+            android:parentActivityName=".Lesson4_3_Main_Activity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aphomework.Lesson4_3_Main_Activity" />
+        </activity>
+        <activity
+            android:name=".Lesson4_3_2_Activity"
+            android:label="@string/title_activity_display_message"
+            android:parentActivityName=".Lesson4_3_Main_Activity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aphomework.Lesson4_3_Main_Activity" />
+        </activity>
+        <activity
+            android:name=".Lesson4_3_3_Activity"
+            android:label="@string/title_activity_display_message"
+            android:parentActivityName=".Lesson4_3_Main_Activity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aphomework.Lesson4_3_Main_Activity" />
+        </activity>
+        <activity
+            android:name=".Lesson4_3_Nav_Up_Activity"
+            android:label="@string/title_activity_display_message"
+            android:parentActivityName=".Lesson4_3_Main_Activity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aphomework.Lesson4_3_Main_Activity" />
+        </activity>
+
+        <!-- #####Lesson4-4 Activity##### -->
+        <activity android:name=".Lesson4_4_Main_Activity" />
+        <activity
+            android:name=".NewsActivity"
+            android:label="@string/title_activity_display_message"
+            android:parentActivityName=".Lesson4_4_Main_Activity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aphomework.Lesson4_4_Main_Activity" />
+        </activity>
+
+        <activity android:name=".Lesson5MainActivity" />
+        <activity android:name=".Lesson5_1_Main_Activity" />
+        <activity android:name=".Lesson5_2_Main_Activity" />
+
+        <activity android:name=".Lesson6MainActivity"/>
+        <activity android:name=".Lesson6_Task_Detail" />
+
+        <activity android:name=".Lesson7MainActivity" />
+        <activity android:name=".Lesson7_1_Main_Activity" />
+        <activity android:name=".Lesson7_2_Main_Activity" />
+
+        <activity android:name=".Lesson7_1_Main_Activity_Lite"></activity>
+    </application>
+
+</manifest>
