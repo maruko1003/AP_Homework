@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_main_lesson1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/btn_main_lesson1" />
+
+    <Button
+        android:id="@+id/btn_main_lesson2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/btn_main_lesson2" />
+
+    <Button
+        android:id="@+id/btn_main_lesson3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/btn_main_lesson3" />
+
+    <Button
+        android:id="@+id/btn_main_lesson4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/btn_main_lesson4" />
+
+    <Button
+        android:id="@+id/btn_main_lesson5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/btn_main_lesson5" />
+
+    <Button
+        android:id="@+id/btn_main_lesson6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/btn_main_lesson6" />
+
+    <Button
+        android:id="@+id/btn_main_lesson7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/btn_main_lesson7" />
+</LinearLayout>
+
+
+
