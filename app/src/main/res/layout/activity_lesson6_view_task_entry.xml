@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <RelativeLayout
+        android:id="@+id/rl_l6_task_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_l6_db_task_id"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="#808080"
+            android:text="Task ID"
+            android:textSize="20sp"
+            android:layout_marginRight="5dp"/>
+
+        <TextView
+            android:id="@+id/tv_l6_db_description"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_l6_db_task_id"
+            android:background="#FF00FFFF"
+            android:textSize="20sp"
+            android:layout_marginRight="5dp"/>
+
+        <TextView
+            android:id="@+id/tv_l6_db_create"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_l6_db_description"
+            android:background="#FF00FF00"
+            android:textSize="20sp"
+            android:layout_marginRight="5dp"/>
+
+        <TextView
+            android:id="@+id/tv_l6_db_complete"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_l6_db_create"
+            android:background="#FFFFFF00"
+            android:textSize="20sp"
+            android:layout_marginRight="5dp"/>
+
+        <TextView
+            android:id="@+id/bt_l6_db_status"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_l6_db_complete"
+            android:background="#FFFF0000"
+            android:textSize="20sp"
+            android:layout_marginRight="5dp"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
+
+
+
+
+
+

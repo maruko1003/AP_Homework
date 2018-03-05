@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_l5_1_async_task"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/btn_l5_1_async_task"
+        android:onClick="onButtonClicked"/>
+
+    <Button
+        android:id="@+id/btn_l5_2_connect_internet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/btn_l5_1_async_task"
+        android:text="@string/btn_l5_2_connect_internet"
+        android:onClick="onButtonClicked"/>
+</RelativeLayout>

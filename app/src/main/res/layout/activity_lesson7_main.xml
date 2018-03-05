@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_l7_1_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/btn_l7_1_notification_name"
+        android:onClick="onButtonClicked"/>
+
+    <Button
+        android:id="@+id/btn_l7_2_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/btn_l7_1_notification"
+        android:text="@string/btn_l7_2_contact_name"
+        android:onClick="onButtonClicked"/>
+</RelativeLayout>

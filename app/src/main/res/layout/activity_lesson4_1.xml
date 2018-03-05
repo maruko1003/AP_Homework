@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <CheckBox
+        android:id="@+id/cb_l4_1_chocolate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="@string/cb_l4_1_chocolate"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox
+        android:id="@+id/cb_l4_2_sprinkles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="@string/cb_l4_2_sprinkles"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox
+        android:id="@+id/cb_l4_3_crashed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="@string/cb_l4_3_crashed"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox
+        android:id="@+id/cb_l4_4_cherries"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="@string/cb_l4_4_cherries"
+        android:onClick="onCheckboxClicked"/>
+    <CheckBox
+        android:id="@+id/cb_l4_5_orio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="@string/cb_l4_5_orio"
+        android:onClick="onCheckboxClicked"/>
+
+    <Button
+        android:id="@+id/btn_l4_1_showtoast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="@string/btn_l4_1_showtoast"
+        android:onClick="onSubmit"/>
+</LinearLayout>
