@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item_l6_one"
+        android:title="In Progress"/>
+
+    <item
+        android:id="@+id/item_l6_two"
+        android:title="Completed"/>
+
+</menu>
