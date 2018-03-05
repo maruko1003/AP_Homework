@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">AP Homework</string>
+    <string name="btn_main_lesson1">Lesson1</string>
+    <string name="btn_main_lesson2">Lesson2</string>
+    <string name="btn_main_lesson3">Lesson3</string>
+    <string name="btn_main_lesson4">Lesson4</string>
+    <string name="btn_main_lesson5">Lesson5</string>
+    <string name="btn_main_lesson6">Lesson6</string>
+    <string name="btn_main_lesson7">Lesson7</string>
+
+    <string name="tv_l3_1_anr">L3.1 : Click Button To Create ANR</string>
+    <string name="btn_l3_1_anr">Cause ANR</string>
+    <string name="tv_l3_2_library">L3.2 : Map Support Library</string>
+    <string name="btn_l3_2_library">Support Library</string>
+
+    <string name="btn_l4_1_input">L4.1 : User Input Controls</string>
+    <string name="btn_l4_2_menus">L4.2 : Menus</string>
+    <string name="btn_l4_3_navigation">L4.3 : Screen Navigation</string>
+    <string name="btn_l4_4_recycler">L4.4 : RecyclerView</string>
+
+    <string name="cb_l4_1_chocolate">Chocolate syrup</string>
+    <string name="cb_l4_2_sprinkles">Sprinkles</string>
+    <string name="cb_l4_3_crashed">Crushed nuts</string>
+    <string name="cb_l4_4_cherries">Cherries</string>
+    <string name="cb_l4_5_orio">Orio cookie crumbles</string>
+    <string name="btn_l4_1_showtoast">SHOW TOAST</string>
+
+    <string name="l4_2_article_title">Beatles Anthology Vol. 1</string>
+    <string name="l4_2_article_subtitle">Behind That Locked Door: Beatles Rarities!</string>
+    <string name="l4_2_article_text">In a vault deep inside Abbey Road Studios in London — protected by an unmarked, triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the <i>Let It Be</i> album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series.
+                                    For more information, see the Beatles Time Capsule at www.rockument.com.
+                                    \n\n
+                                    This volume starts with the first new Beatle song, “Free as a Bird” (based on a John Lennon demo, found only on the bootleg <i>The Lost Lennon Tapes Vol. 28</i>, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions.
+                                    \n\n
+                                    <b>Highlights include:</b>
+                                    \n\n
+                                    <b><i>Cry for a Shadow</i></b> - Many a Beatle fanatic started down the bootleg road, like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs.
+                                    \n\n
+                                    <b><i>My Bonnie</i></b> and <b><i>Ain’t She Sweet</i></b> — At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal).
+                                    \n\n
+                                    <b><i>Searchin</i></b> — A Jerry Leiber - Mike Stoller comedy song that was a hit for the Coasters in 1957, and a popular live favorite of the Beatles. The Coasters also had a hit with “Besame Mucho” and the Beatles covered that song as well. Ringo Starr had by now replaced Pete Best on drums. The high falsetto is George, who also plays a hesitant lead guitar. This is from their first audition for Decca Records in London on Jan 1., 1962, live in the studio. The Grateful Dead would later cover “Searchin” with a similar arrangement, Pigpen doing the Paul vocals. A live version is available on bootlegs featuring the Dead joined by the Beach Boys!
+                                    \n\n
+                                    <b><i>Love Me Do</i></b> — An early version of the song, played a bit slower and with more of a blues feeling, and a cool bossa-nova beat in middle. Paul had to sing while John played harmonica — a first for the group. Pete Best played drums on this version.
+                                    \n\n
+                                    <b><i>She Loves You – Till There Was You – Twist and Shout</i></b> — Live at the Princess Wales Theatre by Leicester Square in London, attended by the Queen. “Till There Was You” (by Meredith Wilson) is from the musical The Music Man and a hit for Peggy Lee in 1961. Before playing it, Paul said it was recorded by his favorite American group, “Sophie Tucker” (which got some laughs). At the end, John tells the people in the cheaper seats to clap their hands, and the rest to “rattle your jewelry” and then announces “Twist and Shout” (a song by Bert Russell and Phil Medley that was first recorded in 1962 by the Isley Brothers). A film of the performance shows the Queen smiling at John’s remark.
+                                    \n\n
+                                    <b><i>Leave My Kitten Alone</i></b> — One of the lost Beatle songs recorded during the “Beatles For Sale” sessions but never released. This song, written by Little Willie John, Titus Turner, and James McDougal, was a 1959 R&amp;B hit for Little Willie John and covered by Johnny Preston before the Beatles tried it and shelved it. A reference to a “big fat bulldog” may have influenced John’s “Hey Bulldog” (Yellow Submarine album), which is a similar rocker.
+                                    \n\n
+                                    <b><i>One After 909</i></b> — A song recorded for the <i>Let It Be</i> album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an R&amp;B feel to it.
+                                    </string>
+
+    <string name="menu_l4_2_edit">Edit</string>
+    <string name="menu_l4_2_share">Share</string>
+    <string name="menu_l4_2_delete">Delete</string>
+
+    <string name="l4_3_3_nav_btn1">Lesson4.3 Ancestral navigation 1</string>
+    <string name="l4_3_3_nav_btn2">Lesson4.3 Ancestral navigation 2</string>
+    <string name="l4_3_3_nav_btn3">Lesson4.3 Ancestral navigation 3</string>
+
+
+    // Lessone4_4 Recylerview item content
+    <string name="title_activity_display_message">RecylerView</string>
+    <string name="news_one_title">Dallas police HQ attack: Suspect believed killed during standoff</string>
+    <string name="news_one_desc">and ows the dark van ramming the nose of a police car before retreating in reverse</string>
+
+    <string name="news_two_title">Hugh Jackman says coffee can change the world</string>
+    <string name="news_two_desc">(CNN)-Hugh Jackman may be finished playing Wolverine in Marvels X-Men films,but the actior still uses his superhuman powers to impact global poverty，Humanitarianism is deeply ingrained in Jackman upbringing. His father, Christopher Jackman, instilled the value of giving through his work as a volunteer accountant for charities serving the developing world.
+                                    I suppose he was leading by example, Jackman said. Areas of poverty and extreme poverty, I learned, are not a natural state. It is man-made and solvable.</string>
+    <string name="news_three_title">Australia in charge of second Test against West Indies in Jamaica</string>
+    <string name="news_three_desc">Australia in charge of second Test against West Indies in Jamaica。
+                                    (CNN)US Olympic figure skater Adam Rippon turned down a meeting with Vice President Mike Pence after criticizing him for his stance on gay rights, USA Today reported Wednesday.
+                                    After reading a January 17 interview in which Rippon criticized Pence, the vice president\'s staff asked the US Olympic Committee to set up a conversation that same day between the athlete and the politician, which Rippon ultimately declined, USA Today's Christine Brennan reported, citing two sources with knowledge of the situation. Brennan is also a CNN sports analyst.
+                                    In a post on his official Twitter account Thursday, Pence told Rippon the US delegation was "for you," and warned him not to let the "fake news" distract him.
+                                    Sponsor Content Laura battled HPV-related cervical cancer three times. Here’s her story Laura Fletcher, a three-time survivor of recurrent HPV-linked cervical cancer, shares her
+                                    story to raise awareness of HPV and related cancers.
+                                    Content provided by MSD
+                                    "I am proud of you and ALL OF OUR GREAT athletes and my only hope for you and all of #TeamUSA is to bring home the gold. Go get 'em!" he told the athlete.</string>
+    <string name="news_four_title">武陵農場櫻花季賞花 交管措施報您知</string>
+    <string name="news_four_desc">武陵農場針對場內櫻花開放時程評估，訂定武陵農場櫻花季疏運時程將自2月16日大年初一正式登場，並持續至2月25日，共計10天，並包含春節連續假期2月16日至20日；為讓上山賞櫻花民眾能有安全舒適的行車環境，並悠遊高品質的賞櫻空間，將比照往年規劃「場內總量管制、道路交通管制、團客預約入場、公共運輸接駁」等四大交通疏運措施。
+                                    櫻花季期間武陵農場實施總量管制每天進場人數6,000人，包括住宿遊客1,800人及一日遊遊客4,200人，其中一日遊遊客又分為團體票1,000人及搭乘公共運輸散客3,200人；住宿遊客憑武陵農場製發的車輛通行證始得進場，團體遊客透過宜蘭縣政府預約平台，依登記時段換發通行證進場，搭乘公共運輸散客則於國光客運及豐原客運提供的售票管道購買車票進場。
+                                    和平警分局指出，櫻花季期間武陵農場周邊道路將實施交通管制，台7線95k牛鬥橋及台7甲線74k梨山將於沿線路段及宣導點設置大型牌面，宣導無通行證者請勿進入武陵農場，已預約之大客車應至指定地點換證等相關訊息；另也將在台7甲線與中124線(武陵路)入口處設置檢驗點，由武陵農場實施全天候交通管制。
+                                    和平警分局將協助管制，無通行證的車輛一律禁止進入，台7甲線45k~55k（思源啞口~中124線路口）路邊於櫻花季期間禁止臨時停車，將於該路段繪設紅線及設置禁止臨時停車標誌；和平警分局將於花季期間規劃警力，嚴加取締違規停車及加強沿線交通疏導，期能有效疏導車流，提升民眾賞櫻及旅遊品質。</string>
+    <string name="news_five_title">春遊苗栗金牌農村 南庄蓬萊社區體驗多元文化的山居風情</string>
+    <string name="news_five_desc">苗栗縣以農村生活、生產、生態發展的美好作為主軸，參與行政院農業委員會辦理的「第一屆金牌農村競賽」中獲得最佳成績，初賽選出的3金代表皆入圍，其一為南庄鄉的蓬萊社區，將要在全國展現實力，爭取佳績。
+                                    農業處表示，南庄鄉曾獲得國際慢城認證，蓬萊社區位於連結南庄老街、南江休閒農業區與八卦力部落的軸帶，卻有別於南庄老街的熱鬧，其有著多元文化融合的山居風情，主要聚集原住民及客家人，並擁有高山水域的自然資源，讓特色產業與生態結合成農村旅遊的亮點。
+                                    跟上大自然的腳步 享受悠閒蓬萊社區劉理事長表示，一年四季蓬萊地區生態豐富，如1-3月櫻花季、4月產桂竹筍、5月桐花季、6-7月繡球花季、7-8月的山水風景最宜人、9-11月落羽松及楓葉，不同時期來度假會有不一樣的驚喜。
+                                    擁有美景的蓬萊社區，當然少不了有趣的農遊活動，包含醃製酸菜、採集木耳、製作木耳露、藤編DIY、拔蘿蔔、蘿蔔醃製體驗等，好讓遊客親近土地，為忙碌的生活補點氧氣。
+                                    此外，堪稱「南庄秘境」的四十二份坪步道，此步道為蓬萊溪的上游。於春節時期健行可聆聽潺潺流水聲，伴隨沿路盛開的富士櫻，沿途也能看到成群的苦花魚、石斑、馬口魚等魚類；走至底為蓬萊42份冷泉生態湧泉區，來回約20多分鐘，相當適合親子遊。
+
+                                    感受部落之美 融入生活
+                                    八卦力部落在賽夏語稱為「嘎嘎歐岸」，指的是喬木生長的地方，現為賽夏文化的主題園區，非商業型態的園區，族人實際生活在家中，區內提供用餐食、住宿，路口即為部落共營的風味餐廳，供應山居種植的山蘇、段木香菇、山苦瓜等，以及南庄當地養殖的鱒魚與竹雞，將野蔬的美味融入賽夏風味特色套餐，透過竹材、編織、木板、石頭等素材裝飾住屋，讓氣氛更顯樸實，貼近族人的生活。
+                                    分享部落風味餐 山林之味多家度假山莊與民宿、庭園咖啡座落於此，像是知名的「南庄晶華民宿」和「南庄山芙蓉咖啡」，庭園造景成了遊客們愜意漫步之處。南江休閒農業區旅遊服務中心現實施產地到餐桌健康飲食的理念，自己栽種段木香菇、木耳等蔬菜，也向小農購買。由在地食材料理準備的部落風味餐，潔淨清澈之活水養殖出的鱒魚，簡單料理，細緻的肉質加點胡椒或鹽提味，便能嘗得鮮美滋味、品出食物本質。縣長徐耀昌歡迎大家到南庄蓬萊社區遊玩，共同體驗農村之美，享受大自然的脈動、迎領人文風情。</string>
+
+
+    <string name="btn_l5_1_async_task">L5.1 : Async Task</string>
+    <string name="btn_l5_2_connect_internet">L5.2 : Broadcast Receiver</string>
+
+    <string name="tv_l5_1_start_work">I am ready to start work!</string>
+    <string name="btn_l5_1_start_task">Start Task</string>
+    <string name="tv_l5_1_napping">"Napping…"</string>
+
+    <string name="tv_l5_2_title">"Enter URL:"</string>
+    <string name="et_l5_2_input_url">"http://www.example.com"</string>
+    <string name="btn_l5_2_get_resource">"GET PAGE RESOURCE"</string>
+    <string name="tv_l5_2_scroll_title">"Page source will appear here"</string>
+
+    <string name="btn_l7_1_notification_name">L7.1 : Android oreo Notification</string>
+    <string name="btn_l7_2_contact_name">L7.2 : Contact List Permission</string>
+
+    <!-- Lesson7 -->
+    <!-- UI Strings -->
+    <string name="notification_channel_followers">Follower Notification Channel</string>
+    <string name="notification_channel_direct_message">Direct Messages Channel</string>
+
+    <string name="got_to_settings_button">Go to Settings</string>
+
+    <string name="test_follower_title">Test Follower Notifications</string>
+    <string name="test_birthday_follower_button">Follower Added</string>
+    <string name="test_life_follower_button">Follower Removed</string>
+    <string name="follower_notification_settings_button">Follower Notification Settings</string>
+
+    <string name="test_dm_title">Test Direct Message Notifications</string>
+    <string name="test_coworker_dm_button">From Coworker</string>
+    <string name="test_friend_dm_button">From Friend</string>
+    <string name="dm_notification_settings_button">DM Notification Settings</string>
+
+    <!-- Notification Strings -->
+    <string name="follower_title_notification">Follower</string>
+    <string name="direct_message_title_notification">Direct Message</string>
+
+    <string name="follower_added_notification_body">%1$s is now following you!</string>
+    <string name="follower_removed_notification_body">%1$s has stopped following you.</string>
+
+    <string name="dm_friend_notification_body">%1$s: What\'s up?</string>
+    <string name="dm_coworker_notification_body">%1$s: Have you finished the report?</string>
+    <string name="error_click">Unknown click event.</string>
+
+    <!-- Names -->
+    <string-array name="names_array">
+        <item>Ethan</item>
+        <item>Mia</item>
+        <item>Mohamed</item>
+        <item>Fatima</item>
+        <item>Daniel</item>
+        <item>Luis</item>
+        <item>Tomás</item>
+        <item>Sofia</item>
+        <item>Camila</item>
+        <item>Somchai</item>
+        <item>Minato</item>
+        <item>Noam</item>
+        <item>Feng</item>
+        <item>Nor</item>
+        <item>Seo-yeon</item>
+        <item>Xioamei</item>
+        <item>Hugo</item>
+        <item>Jonas</item>
+        <item>Oliver</item>
+        <item>Francesco</item>
+        <item>Maxim</item>
+        <item>Yusuf</item>
+        <item>Laia</item>
+        <item>Emma</item>
+        <item>Angeliki</item>
+        <item>Zuzanna</item>
+        <item>Ioana</item>
+        <item>Zeynep</item>
+        <item>Hiro</item>
+        <item>Mareva</item>
+    </string-array>
+
+    <!-- Lesson7 Lite-->
+    <!-- UI Strings -->
+    <string name="tv_l7_1_first_channel_title">First Notification Channel</string>
+    <string name="tv_l7_1_second_channel_title">Second Notification Channel</string>
+
+    <string name="str_l7_1_first_channel_send_btn_1">Send First Channel Notifications 1</string>
+    <string name="str_l7_1_first_channel_send_btn_2">Send First Channel Notifications 2</string>
+    <string name="str_l7_1_second_channel_send_btn_1"> Send Second Channel Notifications 1</string>
+    <string name="str_l7_1_second_channel_send_btn_2">Send Second Channel Notifications 2</string>
+    <string name="str_l7_1_go_to_settings_btn">Go To Settings</string>
+
+    <!-- Notification Strings -->
+    <string name="l7_1_first_title_notification">First Channel Message</string>
+    <string name="l7_1_second_title_notification">Second Channel Message</string>
+
+    <string name="l7_1_first_notification_body_1">%1$s is chatting with you!(First)</string>
+    <string name="l7_1_first_notification_body_2">%1$s existed the chatting room.(First)</string>
+
+    <string name="l7_1_second_notification_body_1">%1$s is talking with you!(Second)</string>
+    <string name="l7_1_second_notification_body_2">%1$s hung up the call(Second)</string>
+</resources>
